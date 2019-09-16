@@ -1,5 +1,5 @@
 /*                 P R O G R A M      Break Coins                     */
-/* Author   : Elvis Yeung Yiu Lun                                     */
+/* Author   : KuroP                                     */
 /* Date     : 2019-9-16                                               */
 /* Program  : Lab3 ex8                                                */
 /* Input    : amount of dollars                                       */
